@@ -1,7 +1,4 @@
-[wechat_classify.py](https://github.com/user-attachments/files/33139474/wechat_classify.py)
-# naaacy
-使用 Python 编写的小工具，用于清洗、分类和整理群聊记录，提取有价值的信息与资源。
-#!/usr/bin/env python3
+[wechat_classify.py](https://github.com/user-attachments/files/33142652/wechat_classify.py)[Uploading wechat_classify#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """群聊记录整理工具
 
@@ -252,3 +249,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+.py…]()
